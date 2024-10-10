@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Tight Analysis of the k-Tree Algorithm over Integers
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Haoxing
+    family-names: Lin
+    email: haoxingl@comp.nus.edu.sg
+    affiliation: National University of Singapore
+repository-code: 'https://github.com/haoxingl/haoxing_k_tree.git'
