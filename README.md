@@ -27,9 +27,9 @@ Below are some examples of running the plotting script:
    ```
    python3 plot_bounds.py -t type1 -zm 0 -m 256 -k 512
    
-   python3 python3 plot_bounds.py -t type2_ub -zm 0 -m 256 -k 4 8 16 32 64 128 256 512 1024 2048 4096 -prob 0.5
+   python3 plot_bounds.py -t type2_ub -zm 0 -m 256 -k 4 8 16 32 64 128 256 512 1024 2048 4096 -prob 0.5
 
-   python3 python3 plot_bounds.py -t type2_ub -zm 0 -m 256 -k 4 8 16 32 64 128 256 512 1024 2048 4096 -prob 0.5
+   python3 plot_bounds.py -t type2_ub -zm 0 -m 256 -k 4 8 16 32 64 128 256 512 1024 2048 4096 -prob 0.5
    ```
 
 The arguments are as follows:
